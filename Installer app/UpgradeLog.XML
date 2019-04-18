@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ApplicationContextDemo">
+</Property><Property Name="Solution File" Value="G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\ApplicationContextDemo.sln">
+</Property><Property Name="Date" Value="25 августа 2018 г.">
+</Property><Property Name="Time" Value="20:00:06">
+</Property></Properties><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="ApplicationContextDemo.csproj" Description="Project file successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\ApplicationContextDemo.csproj">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="App.cs" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\App.cs">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="AssemblyInfo.cs" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="Form1.cs" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="Form2.cs" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="Form3.cs" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="MainFormManager.cs" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\MainFormManager.cs">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="App.ico" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="Form1.resx" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="Form2.resx" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="Form3.resx" Description="File successfully backed up as G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="ApplicationContextDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ApplicationContextDemo" Source="ApplicationContextDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ApplicationContextDemo" Source="ApplicationContextDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

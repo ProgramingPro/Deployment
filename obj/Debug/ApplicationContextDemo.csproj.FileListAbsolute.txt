@@ -1,0 +1,53 @@
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\bin\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\bin\Debug\ApplicationContextDemo.pdb
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ResolveAssemblyReference.cache
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.Form1.resources
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.Form2.resources
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.Form3.resources
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.Properties.Resources.resources
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.csproj.GenerateResource.Cache
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.pdb
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.Exitment.resources
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo\obj\Debug\ApplicationContextDemo.Interripting.resources
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo[теперь кнопки 1 2 3 и exit]\obj\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\ApplicationContextDemo[теперь кнопки 1 2 3 и exit]\obj\Debug\ApplicationContextDemo.pdb
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.pdb
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\bin\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\bin\Debug\ApplicationContextDemo.pdb
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ResolveAssemblyReference.cache
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.Exitment.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.Interripting.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.Form3.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.Form1.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.Form2.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.Properties.Resources.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see\obj\Debug\ApplicationContextDemo.csproj.GenerateResource.Cache
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.pdb
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\bin\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\bin\Debug\ApplicationContextDemo.pdb
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ResolveAssemblyReference.cache
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.Exitment.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.Interripting.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.Form3.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.Form1.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.Form2.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.Properties.Resources.resources
+G:\Microsoft Visual Studio 2008\Projects\For Pra bro to see(partI)\obj\Debug\ApplicationContextDemo.csproj.GenerateResource.Cache
+G:\Microsoft Visual Studio 2008\Projects\(partI)\obj\Debug\ApplicationContextDemo.exe
+G:\Microsoft Visual Studio 2008\Projects\(partI)\obj\Debug\ApplicationContextDemo.pdb
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.exe
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.pdb
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.exe
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.pdb
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.exe.config
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form4.resources

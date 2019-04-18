@@ -1,0 +1,160 @@
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.exe.config
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.exe
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.pdb
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.exe
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.pdb
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationInstaller.csprojResolveAssemblyReference.cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\Installer.pdb
+d:\Documents\programming\Projects - Rosti\Installer app\bin\Debug\Installer.exe.config
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\Installer.exe
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\Installer.pdb
+d:\Documents\programming\Projects - Rosti\Installer app\bin\Debug\Installer.exe
+d:\Documents\programming\Projects - Rosti\Installer app\bin\Debug\Installer.pdb
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationContextDemo.Exitment.resources
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationContextDemo.Form4.resources
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationContextDemo.Interripting.resources
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationContextDemo.Form3.resources
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationContextDemo.Form1.resources
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationContextDemo.Form2.resources
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\Installer.Properties.Resources.resources
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+d:\Documents\programming\Projects - Rosti\Installer app\obj\Debug\ApplicationInstaller.csprojResolveAssemblyReference.cache
+D:\Documents\programming\Projects - Rosti\Installer app\bin\Debug\Ionic.Zip.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\bin\Debug\Ionic.Zip.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationInstaller.csprojResolveAssemblyReference.cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]08122018\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\bin\Debug\Ionic.Zip.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationContextDemo.Form5.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Me]08122018\obj\Debug\ApplicationInstaller.csprojResolveAssemblyReference.cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\bin\Debug\Ionic.Zip.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationContextDemo.Form5.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\bin\Debug\Costura.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[From Kuba]10122018\bin\Debug\Costura.xml
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\bin\Debug\Costura.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\bin\Debug\Ionic.Zip.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\bin\Debug\Costura.xml
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationContextDemo.Form5.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13122018]\obj\Debug\ApplicationInstaller.csprojResolveAssemblyReference.cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Costura.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Ionic.Zip.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Costura.xml
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form5.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Installer.exe.config
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\Installer.exe
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\Installer.pdb
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Installer.exe
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Installer.pdb
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Costura.dll
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Ionic.Zip.dll
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\bin\Debug\Costura.xml
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Exitment.resources
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form5.resources
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form4.resources
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Interripting.resources
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form3.resources
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form2.resources
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\Installer.Properties.Resources.resources
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio 2015\Projects\Installer app[13022019]\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\bin\Debug\Costura.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\bin\Debug\Ionic.Zip.dll
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\bin\Debug\Costura.xml
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationContextDemo.Form5.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app[14022019] from Mark\obj\Debug\ApplicationInstaller.csprojResolveAssemblyReference.cache

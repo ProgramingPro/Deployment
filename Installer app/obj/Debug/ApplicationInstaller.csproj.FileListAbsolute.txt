@@ -1,0 +1,30 @@
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.exe.config
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.exe
+L:\Microsoft Visual Studio 2015\Projects\My app\bin\Debug\ApplicationContextDemo.pdb
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.exe
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationContextDemo.pdb
+L:\Microsoft Visual Studio 2015\Projects\My app\obj\Debug\ApplicationInstaller.csprojResolveAssemblyReference.cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Exitment.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form4.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Interripting.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form3.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form1.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationContextDemo.Form2.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\ApplicationInstaller.csproj.GenerateResource.Cache
+L:\Microsoft Visual Studio 2015\Projects\Installer app\bin\Debug\Installer.exe.config
+L:\Microsoft Visual Studio 2015\Projects\Installer app\bin\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app\bin\Debug\Installer.pdb
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\Installer.Properties.Resources.resources
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\Installer.exe
+L:\Microsoft Visual Studio 2015\Projects\Installer app\obj\Debug\Installer.pdb
+C:\Users\Rostik\Desktop\GitHub\Deployment\Installer app\bin\Debug\Installer.exe.config
+C:\Users\Rostik\Desktop\GitHub\Deployment\Installer app\obj\Debug\Installer.exe
+C:\Users\Rostik\Desktop\GitHub\Deployment\Installer app\obj\Debug\Installer.pdb
